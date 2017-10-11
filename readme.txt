@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-BSConsultores www.bsconsultores.com.pe
 DevOps
 Scrum
 Metodologias Agiles
