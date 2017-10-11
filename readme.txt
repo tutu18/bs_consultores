@@ -1,4 +1,3 @@
-Este es mi primer archivo para versionar en git local.
 BSConsultores www.bsconsultores.com.pe
 DevOps
 Scrum
